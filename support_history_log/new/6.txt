@@ -1,0 +1,31 @@
+Customer: Hi, I've been experiencing slow internet speeds for the past couple of days. It's affecting my work, and I'm not sure what's causing it. Can you help me with this?
+
+Support Engineer: I'm sorry to hear about the slow internet speeds. I'll do my best to assist you. To start, could you provide me with your account number and some details about the devices you're using to connect to the internet?
+
+Customer: My account number is 567890123, and I'm primarily using my laptop and phone to connect.
+
+Support Engineer: Thank you for the information. Let's begin by running a few speed tests on both your laptop and phone. Could you visit a speed testing website on your laptop and let me know the download and upload speeds you're getting?
+
+Customer: I'm getting much slower speeds than what I'm supposed to. The download speed is around 2 Mbps, and the upload speed is even lower.
+
+Support Engineer: That's significantly slower than expected. Let's check a few more things. Can you try connecting your laptop directly to the modem using an Ethernet cable to see if the speeds improve?
+
+Customer: I'll give it a try right now.
+
+[Customer connects laptop to the modem]
+
+Customer: The speeds are much better when connected directly to the modem.
+
+Support Engineer: That helps narrow down the issue. It seems there might be a problem with your Wi-Fi connection. Let's try resetting your router to see if that improves the wireless speeds.
+
+Customer: Okay, I'll do that.
+
+[Customer resets the router]
+
+Customer: It seems to have worked! The internet speeds on my laptop and phone are back to normal. Thank you so much for your help!
+
+Support Engineer: You're welcome! I'm glad we could resolve the issue. If you experience any more problems or if the slow speeds return, please don't hesitate to reach out. Have a productive day!
+
+Customer: I appreciate your quick assistance. Have a great day too! Goodbye!
+
+Support Engineer: Goodbye, and take care! If you need anything else, feel free to contact us.

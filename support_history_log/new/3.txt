@@ -1,0 +1,23 @@
+Customer: Hi, I'm having trouble with my billing. I noticed an incorrect charge on my last invoice. Can you help me sort this out?
+
+Support Engineer: Of course, I'm sorry to hear about the billing issue. I'd be happy to assist you. Can you please provide me with your account number and any details about the specific charge that seems incorrect?
+
+Customer: My account number is 987654321. The charge in question is for a service I didn't subscribe to. It's listed as "Premium Support" with a higher fee than what I normally pay.
+
+Support Engineer: Thank you for providing the details. I apologize for the inconvenience. Let me review your account and investigate this issue for you.
+
+[Support Engineer checks the customer's account]
+
+Support Engineer: I see the discrepancy now. It seems there was an error in our billing system, and the Premium Support service was mistakenly added to your account. I sincerely apologize for this mistake.
+
+Customer: That's okay, as long as it gets resolved. What can we do to correct it?
+
+Support Engineer: I'll go ahead and process a refund for the incorrect charge, and I'll also ensure that the Premium Support service is removed from your account immediately. You should see the adjustment on your next invoice.
+
+Customer: Thank you for addressing this quickly. I appreciate your help.
+
+Support Engineer: You're welcome. I understand the importance of accurate billing, and I apologize for any inconvenience this may have caused. If you have any more questions or concerns, please don't hesitate to reach out.
+
+Customer: I will, thanks again for your assistance. Have a great day!
+
+Support Engineer: You too! If there's anything else, feel free to contact us. Goodbye!

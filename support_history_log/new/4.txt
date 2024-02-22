@@ -1,0 +1,33 @@
+Customer: Hi, I'm having trouble connecting my smart TV to the internet through your service. It was working fine until yesterday, and now it's not connecting at all. Can you help me with this?
+
+Support Engineer: Of course! I'm sorry to hear about the connectivity issue with your smart TV. Let's troubleshoot this together. Can you first confirm if other devices in your home are able to connect to the internet?
+
+Customer: Yes, my laptop and phone are connected without any issues.
+
+Support Engineer: Great, that helps narrow it down. Let's focus on the smart TV. Have you tried restarting the TV and your router?
+
+Customer: I've restarted the TV, but I haven't tried restarting the router. Let me do that now.
+
+[Customer restarts the router]
+
+Customer: I've restarted the router, but the TV still won't connect.
+
+Support Engineer: Okay, let's check the network settings on your smart TV. Can you go to the network settings and ensure that the correct Wi-Fi network is selected, and that the password is entered correctly?
+
+Customer: I'll double-check that now.
+
+[Customer verifies network settings]
+
+Customer: The settings are correct, but it's still not connecting.
+
+Support Engineer: Let's try one more thing. Can you try connecting the TV to the internet using an Ethernet cable, if possible? This will help us determine if the issue is related to the Wi-Fi connection.
+
+Customer: I don't have an Ethernet cable right now, but I can try it later. Is there anything else I can do in the meantime?
+
+Support Engineer: No problem. If you can try the Ethernet connection later, that would be helpful. In the meantime, let's schedule a callback for tomorrow to continue troubleshooting. I'll make a note in your file, and we'll work together to resolve this issue.
+
+Customer: That sounds good. Thank you for your assistance. I appreciate your help.
+
+Support Engineer: You're welcome! We'll make sure to get this sorted out for you. If anything changes or if you have further questions before our callback, feel free to reach out. Have a great day!
+
+Customer: Thanks, you too! Goodbye!
